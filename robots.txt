@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://sistinat.github.io/sitemap.sistinat.gz
+Sitemap: https://sistinat.github.io/app/sitemap.sistinat.gz
+Sitemap: https://sistinat.github.io/assets/sitemap.sistinat.gz
+Sitemap: https://sistinat.github.io/css/sitemap.sistinat.gz
+Sitemap: https://sistinat.github.io/data/sitemap.sistinat.gz
+Sitemap: https://sistinat.github.io/includes/sitemap.sistinat.gz
+Sitemap: https://sistinat.github.io/item/sitemap.sistinat.gz
+Sitemap: https://sistinat.github.io/src/sitemap.sistinat.gz
